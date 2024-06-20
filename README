@@ -74,7 +74,7 @@ Institutional Review Board approval and consent were obtained. To characterise t
 
 ### Clinical Measures Data
 
-Relevant clinical measures can be found in the `phenotype` folder, with each measure and its items described in the relevant `_definition` .csv file. The 'qc' columns indicate quality control checks done on each members (i.e.,  number of unanswered items by a participant.) '999' values indicate missing or skipped data.
+Relevant clinical measures can be found in the `phenotype` folder, with each measure and its items described in the relevant `_definition` .csv file. The 'qc' columns indicate quality control checks done on each measure (i.e.,  number of unanswered items by a participant.) '999' values indicate missing or skipped data.
 
 Detailed information and imaging protocols regarding the dataset can be found here: [Add preprint Link]
 
