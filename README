@@ -1,5 +1,7 @@
 # The Transdiagnostic Connectome Project
 
+https://www.medrxiv.org/content/10.1101/2024.06.18.24309054v1
+
 A richly phenotyped transdiagnostic dataset with behavioral and Magnetic Resonance Imaging (MRI) data from 241 individuals aged 18 to 70, comprising 148 individuals meeting diagnostic criteria for a broad range of psychiatric illnesses and a healthy comparison group of 93 individuals.
 
 These data include high-resolution anatomical scans and 6 x resting-state, and 3 x task-based (2 x Stroop, 1 x Faces/Shapes) functional MRI runs. Participants completed over 50 psychological and cognitive questionnaires, as well as a semi-structured clinical interview.
@@ -76,7 +78,7 @@ Institutional Review Board approval and consent were obtained. To characterise t
 
 Relevant clinical measures can be found in the `phenotype` folder, with each measure and its items described in the relevant `_definition` .csv file. The 'qc' columns indicate quality control checks done on each measure (i.e.,  number of unanswered items by a participant.) '999' values indicate missing or skipped data.
 
-Detailed information and imaging protocols regarding the dataset can be found here: [Add preprint Link]
+Detailed information and imaging protocols regarding the dataset can be found here: https://www.medrxiv.org/content/10.1101/2024.06.18.24309054v1
 
 
 
