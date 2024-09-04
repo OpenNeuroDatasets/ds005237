@@ -32,5 +32,5 @@
     "OpenNeuroIncludedOutputs": [
         "raw NIFTI files for T1w, T2w, 4xrs-FMRI, 3xtask-FMRI and field maps"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005237.v1.0.5"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005237.v1.0.6"
 }
